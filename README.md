@@ -90,6 +90,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Abhishek Rajput - [GitHub](https://github.com/exclusiveabhi)
+Darshan Mandavkar - [GitHub](https://github.com/Error1904)
 
-Project Link: [https://github.com/exclusiveabhi/react-job-portal.git](https://github.com/exclusiveabhi/react-job-portal.git)
+Mail: darshanmandavkar88@gmail.com
